@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 😄, I'm electronfer!
 
-# Hi 😄, I'm electronfer! I am an electronic engineer with a passion for embedded systems and software development.
+### I am an electronic engineer with a passion for embedded systems and software development.
 
 Find me around the web 🌎:
 - <a href="https://www.youtube.com/c/electronfer">YouTube</a>
